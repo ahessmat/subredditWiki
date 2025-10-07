@@ -26,3 +26,36 @@ Eventually, you'll need to work on improving your employability. This manifests 
 
 ==TODO: See <link to 'Job Hunting'>===
 
+# What is the work like?
+
+Cybersecurity is not a monolith. There are many, many different kinds of roles that exist and all of them have varying responsibilities:
+
+* You have folks who concern themselves with networks: how machines and users engage one-another and how they can communicate safely and securely.
+* You have folks concerned with hardware: how humans and machines interface, where systems critical to the health and well-being of dozens (or millions) or people are at stake.
+* You have folks concerned with data: how information in all its forms is meaningful, where preserving its integrity and assuring its availability are paramount.
+* You have folks who think more strategically: how the "big picture" matters and how that - in turn - leads to organizations prescribing policies for everyone to follow and assuring they are enforced.
+
+Categorically, the various disparate roles and responsibilities that collectively contribute to professional cybersecurity are often lumped together as being either "red" (i.e. offensively-oriented) or "blue" (i.e. defensively-geared). Classically, jobs that lean more "red" might include (but are not limited to):
+
+* Read teamers
+* Penetration testers
+* AppSec Engineers
+* Exploit developers
+* Bug Bounty Hunters
+
+While jobs that might lean more "blue" include (but are not limited to):
+
+* Malware analysts
+* SOC analysts
+* Security Engineers
+* GRC functionaries
+* Incident Responders
+
+Neither of the above lists are exhaustive by any means. Moreover, any given job is likely to have functional responsibilities that operate more offensively/defensively at times. Occassionally, the color-coding schema of red/blue invokes "purple" teams, where traditionally offensively-oriented staff are embedded with defensively-geared staff in order to make both better at their respective jobs.
+
+> Note: This color-coding schema is independent of black/grey/white -hat activities (which denote a legal/ethical scale of behaviors from criminal to law-abiding) and white/grey/black -box activities (which reflect a knowledge scale of behind-the-curtain foresight for a given event from complete disclosure to full-discovery).
+
+Your best bet to figuring out what a day-in-the-life is like in cybersecurity would be to first more narrowly discover what it is you want to do within the space. Just remember that ultimately each of us is - in some way - concerned with promoting a greater degree of confidence that the technologies we engage with operate in the way they are intended to.
+
+====TODO: create a list of resources for learning more about the various roles====
+
