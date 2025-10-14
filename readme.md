@@ -59,3 +59,69 @@ Your best bet to figuring out what a day-in-the-life is like in cybersecurity wo
 
 ====TODO: create a list of resources for learning more about the various roles====
 
+# Do I need a degree?
+
+Short answer: not strictly, but it's probably advisable.
+
+Per [ISACA's State of Cybersecurity 2025 report](https://www.isaca.org/state-of-cybersecurity), a majority of employers worldwide require entry-level cybersecurity professionals to have a university degree (as high as 82% in India to as low as 44% in Europe). While previous decades romanticized the closeted renegade hacker going pro, data shows that there are more-and-more graduates with degrees entering the workforce than in years past (making the non-degree job-seeker's job hunting experience tougher than ever); [according to datausa.io](https://datausa.io/profile/cip/computer-information-systems-security), the number of Computer & Information Systems Security degrees awarded *per year* has more than tripled in the last decade.
+
+According to the [2024 US National Center for Science and Engineering Statistics evaluation of cybersecurity workforce supply and demand](https://ncses.nsf.gov/760/assets/0/files/ncses-cwdi-supply-demand-report.pdf), more than 2 out of 3 workers surveyed held a bachelors degree or higher. This marries-up with the [U.S. Office of Personnel Management's Cyber Workforce Dashboard](https://www.opm.gov/data/data-products/cyber-workforce-dashboard/), reporting roughly a combined 61% of the U.S. federal cybersecurity workforce as having a bachelors degree or greater. This likewise matches [research out of Northern Michigan University](https://files.eric.ed.gov/fulltext/EJ1246234.pdf), which reported 60% of entry-level jobs listings on Dice.com as requiring a college degree in a related field.
+
+Having said all that, the most impactful asset to your employability in the professional domain of cybersecurity is in having a relevant work history. According to the [2024 ISC2 Cybersecurity Workforce Study](https://www.isc2.org/Insights/2024/10/ISC2-2024-Cybersecurity-Workforce-Study), 73% of respondents said having worked in an IT position was "very valuable" to their cybersecurity career growth (vs. only 48% for a bachelors or postbaccalaureate degree). Likewise, the ISACA report noted 72% of employers felt prior hands-on cybersecurity experience was "very important" in determining if a cybersecurity candidate is qualified for the job (vs. 20% for a University degree).
+
+Choosing to pursue a career in cybersecurity *without* going for a degree [is not without it's own risks](https://bytebreach.com/posts/do-i-need-a-degree/). Generally, the common methods include:
+
+* Cyber-adjacent employment + independent studies before externally job-hopping
+* Internally pivoting within your existing employer
+* Military service
+
+====TODO: link to description somewhere for what constitutes "cyber-adjacent"====
+
+## What kind of degree?
+
+If you're considering university, you probably want to study a more technical subject-matter area. While this naturally includes majors like "cybersecurity", "cyber information systems", and "information security" it can also extend to include such majors as:
+
+* Computer Science
+* Information Technology
+* Information Assurance
+* Software Engineering
+* Computer Engineering
+
+...and so on.
+
+A Bachelors of Science (BS) degree is preferable to an Associates degree or a Bachelors of Arts (BA).
+
+## Do I have to study cybersecurity?
+
+In fact, some of the more generalized academic disciplines like Computer Science tend to have more uniform "core" curricula at the undergraduate level and expose you to extracurriculars you might not otherwise (e.g. operating systems, AI/ML, etc.). Standalone cybersecurity programs in academia are newer by comparison; as such, there is no such agreed-upon understanding between institutions as to what should constitute a "core" cybersecurity curricula:
+
+* Some are spun-off of existing related departments (i.e. CompSci, IT, etc.)
+* Some model their curricula off of third-party vendor certifications (popularly: [Western Governors University](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html) or [SANS](https://www.sans.edu/cyber-security-programs/bachelors-degree/))
+* Some adopt an awkward schema of dropping academically-intensive coursework (e.g. mathematics and algorithm analysis) for more holistic ones (e.g. psychology, criminal justice, business, etc.)
+
+Point being, it's important not to take a program's quality at face-value. As with any university acceptance decision, you should audit your prospective school's programs of interest in order to get a better sense of whether or not it aligns with your academic objectives. Some considerations in no particular order:
+
+* Affordable tuition
+* Interesting subject matter
+* Engaged faculty and teaching assistants
+* Frequently updated/modernized curricula
+* Research opportunities + fellowships
+* Employer-linkage programs
+
+## What about graduate school?
+
+Generally, there are some really narrow criteria for who is best served by a graduate degree. For people who already have an undergraduate degree in a related field, you're typically better served by cultivating your work history (vs. doubling-down on formal education). There are diminishing (though non-zero) returns when considering...
+
+* ...[the impact of a degree to your employability when compared to your employment experiences](https://bytebreach.com/assets/images/isaca_survey.PNG)
+* ...[how fewer than a quarter of available jobs list a graduate degree as even being "nice to have"](https://files.eric.ed.gov/fulltext/EJ1246234.pdf)
+* ...and the amount of overlap in subject-matter from undergraduate to graduate studies.
+
+The common reason(s) someone might reasonably consider graduate school:
+
+* If you're interested in working professionally within academia. If so, you probably want to pursue all the way through to your PhD.
+* If you're aiming for a particular General Schedule (GS) payband within the U.S. federal gov't.
+* If you're looking to work in cryptography more narrowly (owing to the increased amount of mathematical rigor).
+* If it helps with immigration/working abroad (i.e. a student visa).
+* If your undergraduate degree was in an unrelated field of study and you're a career-changer early in transitioning.
+* If you weren't able to attain internships or otherwise foster your work history in tandem with your studies, requiring the additional time to do so.
+* If you have a full-ride scholarship.
