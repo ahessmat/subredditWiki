@@ -57,6 +57,11 @@ Neither of the above lists are exhaustive by any means. Moreover, any given job 
 
 Your best bet to figuring out what a day-in-the-life is like in cybersecurity would be to first more narrowly discover what it is you want to do within the space. Just remember that ultimately each of us is - in some way - concerned with promoting a greater degree of confidence that the technologies we engage with operate in the way they are intended to.
 
+## Career Orientation Resources
+
+Below are a list of resources for learning about the various roles that collectively contribute to the professional domain:
+
+* 
 ====TODO: create a list of resources for learning more about the various roles====
 
 # Do I need a degree?
@@ -122,19 +127,27 @@ The common reason(s) someone might reasonably consider graduate school:
 * If you weren't able to attain internships or otherwise foster your work history in tandem with your studies, requiring the additional time to do so.
 * If you have a full-ride scholarship.
 
+Outside of the above, it's generally more practical to focus on fostering a pertinent work history instead.
+
 # How do I find a job?
 
 Looking for cybersecurity work can be a really stressful endeavor for people, especially if you are changing careers, were unexpectedly terminated, or are early-on in your career. If you've never gone looking for work before or it's been a while since you last were looking for a job, it's important to bear in mind that the job hunting experience may have changed since even a few years ago.
 
 Job hunting is a multi-step process. It helps to understand how your efforts affect particular steps (and may not impact others). Roughly speaking, the steps can be broken down as:
 
-1. Formatting your resume
-  1. See /r/EngineeringResumes
+* Formatting your resume
+* Finding job opportunities and applying to them
+* Interviewing
+* Improving your employability
+
+## Formatting your resume
+  1. See [/r/EngineeringResumes](https://www.reddit.com/r/EngineeringResumes/)
   2. [This blog post](https://bytebreach.com/posts/how-to-write-an-infosec-resume/) on formatting considerations
   3. Remember that a CV is an exhaustive document while a resume is a more tailored one; use the former to draft the latter.
   4. US federal job opportunities follow a [very strict format](https://www.sec.gov/jobs/sample-resume/sample-resume.pdf), which you'll likely have to adjust for if you seek to work there.
   5. In general, make sure you include a relevant work history with [quantifiable metrics](https://smetrics.lavenix.com/), [pertinent certifications](https://bytebreach.com/posts/what-certifications-should-you-get/), and your formal education. Optionally supplement with sections like Project, Skills, and a professional summary.
-2. Finding job opportunities and applying to them
+
+## Finding job opportunities and applying to them
   1. Use job opening sites (like [Indeed](https://www.indeed.com/)) to find work, but apply for jobs you find directly through the employer's respective "Careers" portal on their site.
   2. [LinkedIn](https://www.linkedin.com/) is (arguably) better as a social media platform than a jobs listing website. You should cultivate your profile on their to attain better exposure for recruiters to find you.
   3. If you're looking to work for the US Federal Gov't directly, you'll want to reference [USAjobs](https://www.usajobs.gov/). For US contractors, you'll probably want to consult [ClearanceJobs](https://www.clearancejobs.com/) instead (assuming you already hold an active security clearance).
@@ -142,7 +155,7 @@ Job hunting is a multi-step process. It helps to understand how your efforts aff
   5. It's important to realize that the overwhelming majority of your job applications will go without reply or will be ultimately rejected. Early-career applicants especially should be prepared to face a long application period with the total number of applications reaching the dozens/hundreds.
   6. The highest application:interview conversion ratio methods are those which directly involve a human being in the process. Think recruiters/headhunters, job fairs, internal recommendations, etc. Getting a person involved in handling your resume *significantly* improves the odds of a callback.
   7. For early career applicants: bear in mind you likely do not have the leverage to be selective about your first cybersecurity job. While you should certainly apply to jobs you want, we would encourage you to apply to *any* cybersecurity job (or even cyber-adjacent job) just to get your career going. It's easier to pivot into a line of work from a position of experience than it is to directly get into your chosen specialty.
-3. Interviewing
+## Interviewing
   1. [General Comprehensive Interview Prep](https://github.com/gracenolan/Notes/blob/master/interview-study-notes-for-security-engineering.md)
   2. [Example interview questions](https://github.com/justinltodd/security-interview-questions)
   3. [Glossary of Cybersecurity Terms](https://www.sans.org/security-resources/glossary-of-terms/)
@@ -150,7 +163,7 @@ Job hunting is a multi-step process. It helps to understand how your efforts aff
   5. [Daniel Miessler's Interview Questions](https://danielmiessler.com/p/infosec-interview-questions)
   6. [Google's Interview Warm-up](https://grow.google/certificates/interview-warmup/)
   7. [Amazon Security Engineer Prep Guidance](https://amazon.jobs/content/en/how-we-hire/security-engineer-interview-prep)
-4. Improving our employability
+## Improving your employability
   1. [Leverage free resources to hone your craft or acquire new skills](https://bytebreach.com/posts/hacking-helpers-learning-cybersecurity/)
   2. Pursue in-demand certifications
   3. Vie for top placement in [competitive CTF competitions](https://ctftime.org/)
