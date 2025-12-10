@@ -12,7 +12,7 @@ See the following Table of Contents (TOC) to direct you to the appropriate resou
 
 # I'm new to Cybersecurity; where do I begin?
 
-If you are newer to the space, it can be really challenging wrapping your head around cybersecurity as a profession (let alone what you need to learn/perform in order to become a part of it).
+If you are newer to the space, it can be really challenging wrapping your head around cybersecurity as a profession (let alone [what you need to learn/perform in order to become a part of it](https://roadmap.sh/cyber-security), which can feel daunting).
 
 Early on, you're going to want to learn more about the industry in order to help inform your decision about whether or not cybersecurity is for you; such knowledge will also help guide your initial career trajectory based on what roles/responsibilities look attractive. Know this however: careers in this space typically do not manifest quickly, easily, or cheaply. Most people invest years of their lives (and a non-trivial amount of out-of-pocket expenses in college tuition / certification exam fees) before they attain their first full-time cybersecurity job - let alone the one they are envisioning doing.
 
@@ -61,8 +61,11 @@ Your best bet to figuring out what a day-in-the-life is like in cybersecurity wo
 
 Below are a list of resources for learning about the various roles that collectively contribute to the professional domain:
 
-* 
-====TODO: create a list of resources for learning more about the various roles====
+* [The NICE Framework](https://niccs.cisa.gov/tools/cyber-career-pathways-tool?filter=on-ramps) - managed by CISA - allows you to filter cybersecurity subdomains against related areas that they refer to as "on-ramps". These on-ramps can be clicked on for suggested functional job titles, helping inform you of cyber-adjacent lines of work you might consider.
+* [Cyberseek](https://www.cyberseek.org/pathway.html) - a tool managed by NICE, CompTIA, and Lightcast - publishes cybersecurity workforce data, including rough trends relating to career pathways.
+* [Paul Jerimy's Security Career Roadmap](https://pauljerimy.com/it-career-roadmap/) is an independently maintained roadmap that plugs example titles from the NICE workforce framework against Glass Door compensation data.
+* The SANS Institute has published [a nice flier with what they call "The Coolest Careers In Cyber"](https://assets.contentstack.io/v3/assets/bltabe50a4554f8e97f/blt692c8c0b828b1582/SANS_Poster_Coolest_Careers_English.pdf); subjectivity aside, it's nice to get a quick overview/summary of a lot of jobs with relation to one another.
+* The InfoSec Institute maintains [a podcast series titled "What does an X do?"](https://www.infosecinstitute.com/podcast/?Type=Career+Series); these interviews with people from all across the workforce help provide direct insights into the various roles and their functional responsibilities.
 
 # Do I need a degree?
 
