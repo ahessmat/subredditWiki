@@ -6,21 +6,23 @@ Cybersecurity is the practice of securing computer systems, networks, and data f
 
 This subreddit is for discussing cybersecurity topics, research, and emergent threats/findings. To that end, we have updated our Wiki/FAQ in order to serve this subreddit's community writ large; we have endeavored to collect guidance, best practices, and supplemental information in order to help direct people towards answers that they might have. However, if you cannot find what you are looking for, please consider posing your question in the weekly rolling "Mentorship Monday" threads pinned to the top of the subreddit.
 
+> Related: unsure if your content constitutes as advertising and/or you want to do an AMA? Please review the subreddit's [Advertising Guidelines here](https://www.reddit.com/r/cybersecurity/wiki/advertising_guidelines/).
+
 # I'm new to Cybersecurity; where do I begin?
 
 If you are newer to the space, it can be really challenging wrapping your head around cybersecurity as a profession (let alone [what you need to learn/perform in order to become a part of it](https://roadmap.sh/cyber-security), which can feel daunting).
 
 Early on, you're going to want to learn more about the industry in order to help inform your decision about whether or not cybersecurity is for you; such knowledge will also help guide your initial career trajectory based on what roles/responsibilities look attractive. Know this however: careers in this space typically do not manifest quickly, easily, or cheaply. Most people invest years of their lives (and a non-trivial amount of out-of-pocket expenses in college tuition / certification exam fees) before they attain their first full-time cybersecurity job - let alone the one they are envisioning doing.
 
-Related: see the "[What it's like](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_what_is_the_work_like.3F)" subsection.
+> Related: see the "[What it's like](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_what_is_the_work_like.3F)" subsection.
 
 If you think that you do want to pursue a career, then you'll want to buoy your knowledgebase with understanding Information Technology (IT) & Computer Science (CompSci) fundamentals more broadly; these are the parent domains that the cybersecurity profession was built upon and whose foundations extend into much of the work we do to this day. Some people pursue degrees for example, although [this is certainly not the only approach to consider](https://bytebreach.com/posts/do-i-need-a-degree/).
 
-Related: see the "[What kind of degree?](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_what_kind_of_degree.3F)" subsection.
+> Related: see the "[What kind of degree?](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_what_kind_of_degree.3F)" subsection.
 
 Eventually, you'll need to work on improving your employability. This manifests in a variety of ways, but one of the most common (besides fostering a pertinent work history) is accumulating relevant industry-recognized certifications. Working on our employability is a life-long effort that should be thoughtful, deliberate, and carefully planned.
 
-Related: see the "[How do I find a job?](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_how_do_i_find_a_job.3F)" subsection.
+> Related: see the "[How do I find a job?](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_how_do_i_find_a_job.3F)" subsection.
 
 # What is the work like?
 
@@ -177,3 +179,15 @@ Job hunting is a multi-step process. It helps to understand how your efforts aff
   6. Consider a degree-granting program
   7. Post your resume for feedback in the Mentorship Monday thread
   8. Apply your skills into some projects
+
+# Links
+
+This community has been really gracious in sharing all kinds of resources that they've leveraged over time to learn and practice the craft. To that end, we've collected all of them below by type:
+
+* [Training platforms and resources](https://www.reddit.com/r/cybersecurity/wiki/training)
+* [Books](https://www.reddit.com/r/cybersecurity/wiki/books/)
+* [College courses made available online](https://www.reddit.com/r/cybersecurity/wiki/college_courses)
+* [Podcasts](https://www.reddit.com/r/cybersecurity/wiki/podcasts)
+* [YouTube channels & videos](https://www.reddit.com/r/cybersecurity/wiki/youtube_channels)
+* [News Sources](https://www.reddit.com/r/cybersecurity/wiki/news)
+* [Cheat sheets & references](https://www.reddit.com/r/cybersecurity/wiki/references_tools/)
