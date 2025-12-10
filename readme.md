@@ -134,6 +134,32 @@ Bootcamps have emerged in the last decade or so as a self-ascribed alternatives 
 
 Please exercise caution.
 
+# Certifications
+
+Certifications can be [an excellent way to promote your employability in cybersecurity](https://bytebreach.com/assets/images/isaca_survey.PNG). They serve as attestations by third-parties of your knowledge and competence in the industry. Some of the most commonly engaged vendors offering certifications include (but are not limited to):
+
+* CompTIA
+* ISC2
+* Microsoft
+* AWS
+* Offensive Security
+* SANS Institute
+* Cisco
+
+However, there are [many, many other offerings](https://www.reddit.com/r/cybersecurity/comments/sgmqxv/mentorship_monday/hv7ixno/) available that cover a whole host of subject-matter areas in cybersecurity. Just be mindful that not all certifications equally affect your employability as others; speaking in general terms, a certification is most impactful to your employability when it is explicitly named in a given job listing. Otherwise, it is tangential in helping construct a narrative of your ongoing reinvestment into your professional aptitude.
+
+**If you're just getting acquainted with cybersecurity as a professional interest, the most commonly suggested subset of certifications to begin with are typically a subset of CompTIA A+, Network+, and/or Security+.** After that, you might consider investing in [some of the most sought-after certifications explicitly named by employers](https://bytebreach.com/posts/what-certifications-should-you-get/), tailoring your training to a particular line of work.
+
+The exact process of acquiring a certification will vary between vendors. Some - such as /r/CompTIA - have their own dedicated subreddits chock-full of resources for studying/passing their respective exams. In general, certifications...
+
+* Require anywhere between 3 to 6 months of studying, although this can vary depending on the difficulty
+* Have similar exam formats within a vendor; the bulk of CompTIA's exams are multiple choice, for example (while Offensive Security is practical application only).
+* Cost anywhere between a few hundred to a few thousand dollars for the exam; more for study materials.
+* Either never expire or must be renewed every several years to avoid expiring.
+* Are proctored
+
+Certifications are generally distinct from "certificates", which tend to be issued by either Massive Open Online Courses (MOOCs) like Coursera, EdX, Udemy, Udacity, LinkedIn Learning, etc. These tend to be compilations of video lectures that issue a congratulatory finishers certificate upon completion; they generally do not have a distinct exam as a prerequisite of being awarded the certificate, and have little impact on your employability. Other "certificate" programs may include university satellite campuses, which might provide micro- or nano- "degrees"; these generally are little better, except for potential transfer credit towards an actual undergraduate/graduate degree.
+
 # How do I find a job?
 
 Looking for cybersecurity work can be a really stressful endeavor for people, especially if you are changing careers, were unexpectedly terminated, or are early-on in your career. If you've never gone looking for work before or it's been a while since you last were looking for a job, it's important to bear in mind that the job hunting experience may have changed since even a few years ago.
@@ -158,7 +184,7 @@ Job hunting is a multi-step process. It helps to understand how your efforts aff
   3. If you're looking to work for the US Federal Gov't directly, you'll want to reference [USAjobs](https://www.usajobs.gov/). For US contractors, you'll probably want to consult [ClearanceJobs](https://www.clearancejobs.com/) instead (assuming you already hold an active security clearance).
   4. For students, you might also want to consider looking at [Handshake](https://joinhandshake.com/) (a platform geared towards students and new graduates)
   5. It's important to realize that the overwhelming majority of your job applications will go without reply or will be ultimately rejected. Early-career applicants especially should be prepared to face a long application period with the total number of applications reaching the dozens/hundreds.
-  6. The highest application:interview conversion ratio methods are those which directly involve a human being in the process. Think recruiters/headhunters, job fairs, internal recommendations, etc. Getting a person involved in handling your resume *significantly* improves the odds of a callback.
+  6. The highest `application:interview` conversion ratio methods are those which directly involve a human being in the process. Think recruiters/headhunters, job fairs, internal recommendations, etc. Getting a person involved in handling your resume *significantly* improves the odds of a callback.
   7. For early career applicants: bear in mind you likely do not have the leverage to be selective about your first cybersecurity job. While you should certainly apply to jobs you want, we would encourage you to apply to *any* cybersecurity job (or even cyber-adjacent job) just to get your career going. It's easier to pivot into a line of work from a position of experience than it is to directly get into your chosen specialty.
 
 ## Interviewing
