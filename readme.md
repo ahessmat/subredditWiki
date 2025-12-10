@@ -6,25 +6,21 @@ Cybersecurity is the practice of securing computer systems, networks, and data f
 
 This subreddit is for discussing cybersecurity topics, research, and emergent threats/findings. To that end, we have updated our Wiki/FAQ in order to serve this subreddit's community writ large; we have endeavored to collect guidance, best practices, and supplemental information in order to help direct people towards answers that they might have. However, if you cannot find what you are looking for, please consider posing your question in the weekly rolling "Mentorship Monday" threads pinned to the top of the subreddit.
 
-See the following Table of Contents (TOC) to direct you to the appropriate resources you may be looking for:
-
-====TOC HERE====
-
 # I'm new to Cybersecurity; where do I begin?
 
 If you are newer to the space, it can be really challenging wrapping your head around cybersecurity as a profession (let alone [what you need to learn/perform in order to become a part of it](https://roadmap.sh/cyber-security), which can feel daunting).
 
 Early on, you're going to want to learn more about the industry in order to help inform your decision about whether or not cybersecurity is for you; such knowledge will also help guide your initial career trajectory based on what roles/responsibilities look attractive. Know this however: careers in this space typically do not manifest quickly, easily, or cheaply. Most people invest years of their lives (and a non-trivial amount of out-of-pocket expenses in college tuition / certification exam fees) before they attain their first full-time cybersecurity job - let alone the one they are envisioning doing.
 
-===TODO: See <link to 'What it's like'>===
+Related: see the "[What it's like](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_what_is_the_work_like.3F)" subsection.
 
 If you think that you do want to pursue a career, then you'll want to buoy your knowledgebase with understanding Information Technology (IT) & Computer Science (CompSci) fundamentals more broadly; these are the parent domains that the cybersecurity profession was built upon and whose foundations extend into much of the work we do to this day. Some people pursue degrees for example, although [this is certainly not the only approach to consider](https://bytebreach.com/posts/do-i-need-a-degree/).
 
-===TODO: See <link to 'Type of degree'>===
+Related: see the "[What kind of degree?](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_what_kind_of_degree.3F)" subsection.
 
 Eventually, you'll need to work on improving your employability. This manifests in a variety of ways, but one of the most common (besides fostering a pertinent work history) is accumulating relevant industry-recognized certifications. Working on our employability is a life-long effort that should be thoughtful, deliberate, and carefully planned.
 
-==TODO: See <link to 'Job Hunting'>===
+Related: see the "[How do I find a job?](https://www.reddit.com/r/cybersecurity/wiki/index/#wiki_how_do_i_find_a_job.3F)" subsection.
 
 # What is the work like?
 
@@ -79,11 +75,9 @@ Having said all that, the most impactful asset to your employability in the prof
 
 Choosing to pursue a career in cybersecurity *without* going for a degree [is not without it's own risks](https://bytebreach.com/posts/do-i-need-a-degree/). Generally, the common methods include:
 
-* Cyber-adjacent employment + independent studies before externally job-hopping
+* [Cyber-adjacent employment](https://niccs.cisa.gov/tools/cyber-career-pathways-tool?filter=on-ramps) + independent studies before externally job-hopping
 * Internally pivoting within your existing employer
 * Military service
-
-====TODO: link to description somewhere for what constitutes "cyber-adjacent"====
 
 ## What kind of degree?
 
@@ -132,6 +126,12 @@ The common reason(s) someone might reasonably consider graduate school:
 
 Outside of the above, it's generally more practical to focus on fostering a pertinent work history instead.
 
+## What about bootcamps?
+
+Bootcamps have emerged in the last decade or so as a self-ascribed alternatives to formal education. They typically take the form of X-week or Y-month training programs, usually tying their curricula towards helping study for one or more foundational certifications. We urge anyone considering a bootcamp to carefully scrutinize the offering, as students typically assume outsized risk in considering them (vs. simply independently studying or going to university). Your moderation team notes that links to some vendors have been banned from this subreddit owing to link farming and other ethically questionable practices observed.
+
+Please exercise caution.
+
 # How do I find a job?
 
 Looking for cybersecurity work can be a really stressful endeavor for people, especially if you are changing careers, were unexpectedly terminated, or are early-on in your career. If you've never gone looking for work before or it's been a while since you last were looking for a job, it's important to bear in mind that the job hunting experience may have changed since even a few years ago.
@@ -158,6 +158,7 @@ Job hunting is a multi-step process. It helps to understand how your efforts aff
   5. It's important to realize that the overwhelming majority of your job applications will go without reply or will be ultimately rejected. Early-career applicants especially should be prepared to face a long application period with the total number of applications reaching the dozens/hundreds.
   6. The highest application:interview conversion ratio methods are those which directly involve a human being in the process. Think recruiters/headhunters, job fairs, internal recommendations, etc. Getting a person involved in handling your resume *significantly* improves the odds of a callback.
   7. For early career applicants: bear in mind you likely do not have the leverage to be selective about your first cybersecurity job. While you should certainly apply to jobs you want, we would encourage you to apply to *any* cybersecurity job (or even cyber-adjacent job) just to get your career going. It's easier to pivot into a line of work from a position of experience than it is to directly get into your chosen specialty.
+
 ## Interviewing
   1. [General Comprehensive Interview Prep](https://github.com/gracenolan/Notes/blob/master/interview-study-notes-for-security-engineering.md)
   2. [Example interview questions](https://github.com/justinltodd/security-interview-questions)
@@ -166,6 +167,7 @@ Job hunting is a multi-step process. It helps to understand how your efforts aff
   5. [Daniel Miessler's Interview Questions](https://danielmiessler.com/p/infosec-interview-questions)
   6. [Google's Interview Warm-up](https://grow.google/certificates/interview-warmup/)
   7. [Amazon Security Engineer Prep Guidance](https://amazon.jobs/content/en/how-we-hire/security-engineer-interview-prep)
+
 ## Improving your employability
   1. [Leverage free resources to hone your craft or acquire new skills](https://bytebreach.com/posts/hacking-helpers-learning-cybersecurity/)
   2. Pursue in-demand certifications
